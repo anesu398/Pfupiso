@@ -10,6 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "node-nlp": "^4.27.0",
     "react": "18.2.0",
     "react-native": "0.74.1"
   },
